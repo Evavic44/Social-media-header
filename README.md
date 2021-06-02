@@ -12,11 +12,14 @@ Contributions of any kind are welcome. Feel free to push a PR.
 ### ⚙ Socail Headers
 <div align="left">
     <h4>Edem Gold</h4>
-    <img src="" width="100%" height="200"/>
-    <h4>CSS Image Preview Card</h4>
-    <img src="" width="100%" height="200"/>
+    <img src="https://user-images.githubusercontent.com/62628408/120480868-6bc59e00-c3a7-11eb-9100-344b53ef619c.png" width="100%" height="250"/>
+    <h4>Kehinde Anu</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/120480945-7ed86e00-c3a7-11eb-8e36-aa5b177e07a1.png" width="100%" height="250"/>
+    <h4>Segun ajibola</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/120480978-8a2b9980-c3a7-11eb-83c6-aa3135648a6c.png" width="100%" height="250"/>
+    <h4>Olanrewaju</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/120480962-8566e580-c3a7-11eb-8b69-b0d08417c7db.png" width="100%" height="250"/>
 </div>
-
 <hr/>
 
 #### Getting Started
