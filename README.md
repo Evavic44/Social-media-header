@@ -12,9 +12,9 @@ Contributions of any kind are welcome. Feel free to push a PR.
 ### ⚙ Socail Headers
 <div align="left">
     <h4>Edem Gold</h4>
-    <img src="" width="1000" height="200"/>
+    <img src="" width="100%" height="200"/>
     <h4>CSS Image Preview Card</h4>
-    <img src="" width="1000" height="200"/>
+    <img src="" width="100%" height="200"/>
 </div>
 
 <hr/>
