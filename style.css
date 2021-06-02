@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600;800&display=swap');
+
+
+:root {
+    /* 
+        =============================
+        -- Change color code here --
+          * Secondary color to the left
+          * Primary color to the right
+        =============================
+    */
+    --primary-color: #7360ff;
+    --secondary-color: #040f25;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-y: hidden;
+}
+
+p {
+    margin: 10px 0;
+    font-weight: 300;
+}
+
+/* 
+    =============================
+    ----- Style Goes Here -------
+    =============================
+*/
+#header {
+    margin: 150px 0;
+    height: 100vh;
+}
+
+#header .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: linear-gradient(to left, var(--primary-color), var(--secondary-color));
+    height: 60%;
+    padding: 0 40px 60px;
+    line-height: 1.1;
+}
+
+.content h1 {
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.content h2 {
+    font-size: 3rem;
+}
+
+.content p {
+    font-weight: 100;
+    font-size: 1.2rem;
+}
+
+img {
+    width: 250px;
+}
