@@ -19,6 +19,12 @@ Contributions of any kind are welcome. Feel free to push a PR.
     <img src="https://user-images.githubusercontent.com/62628408/120480978-8a2b9980-c3a7-11eb-83c6-aa3135648a6c.png" width="100%" height="240"/>
     <h4>Olanrewaju</h4>
     <img src="https://user-images.githubusercontent.com/62628408/120480962-8566e580-c3a7-11eb-8b69-b0d08417c7db.png" width="100%" height="240"/>
+    <h4>Yusuf</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/120693206-a2cbaa80-c4a0-11eb-84c0-2c1544332718.png" width="100%" height="100%">
+    <h4>Amit Tripathi</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/120693538-0950c880-c4a1-11eb-887f-c8b8b287aa03.png" width="100%" height="100%">
+    <h4>Chadere Nyore</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/120693636-28e7f100-c4a1-11eb-9206-47b68c3a2efd.png" width="100%" height="100%">
 </div>
 <hr/>
 
@@ -54,7 +60,7 @@ Contributions of any kind are welcome. Feel free to push a PR.
 * Create a new pull request from your forked repository to `main` branch of `Evavic44/Social-media-header.git`
 <hr>
 
-## 💙 If you like the project: give it a ⭐ and share it with friends!
+#### 💙 If you like the project, give it a star ⭐ and share with friends!
 
 - Star the Repo - [Social Media Header](https://github.com/Evavic44/Social-media-header)
 
