@@ -6,10 +6,10 @@
 
 This repository is used for creating social media headers using the simple, already provided HTML & CSS markup.
 
-
 Contributions of any kind are welcome. Feel free to push a PR.
 
 ### ⚙ Socail Headers
+
 <div align="left">
     <h4>Edem Gold</h4>
     <img src="https://user-images.githubusercontent.com/62628408/120480868-6bc59e00-c3a7-11eb-9100-344b53ef619c.png" width="100%" height="100%"/>
@@ -25,39 +25,42 @@ Contributions of any kind are welcome. Feel free to push a PR.
     <img src="https://user-images.githubusercontent.com/62628408/120693538-0950c880-c4a1-11eb-887f-c8b8b287aa03.png" width="100%" height="100%">
     <h4>Chadere Nyore</h4>
     <img src="https://user-images.githubusercontent.com/62628408/120693636-28e7f100-c4a1-11eb-9206-47b68c3a2efd.png" width="100%" height="100%">
+    <h4>Pratik Sahu</h4>
+    <img src="https://user-images.githubusercontent.com/80754608/121764435-762f2700-cb61-11eb-97c5-67c0f0099375.png">
 </div>
 <hr/>
 
 #### Getting Started
-* Fork this repo (button on top)
-* Clone on your local machine
-    ```
-        $ git clone https://github.com/Evavic44/Social-media-header.git
-    ```
-* Change to `Social-media-header` directory
-    ```
-        $ cd Social-media-header
-    ```
-* Add Upstream
-    ```
-        $ git remote add upstream https://github.com/Evavic44/Social-media-header.git
-    ```        
-* Create a new branch
-    ```
-        $ git checkout -b my-new-branch
-    ```
-* Make your changes
-* Commit and push
-    ```
-        $ git add .
-    ```
-    ```
-        $ git commit -m "your-commit-message"
-    ```
-    ```
-        $ git push origin my-new-branch
-    ```
-* Create a new pull request from your forked repository to `main` branch of `Evavic44/Social-media-header.git`
+
+- Fork this repo (button on top)
+- Clone on your local machine
+  ```
+      $ git clone https://github.com/Evavic44/Social-media-header.git
+  ```
+- Change to `Social-media-header` directory
+  ```
+      $ cd Social-media-header
+  ```
+- Add Upstream
+  ```
+      $ git remote add upstream https://github.com/Evavic44/Social-media-header.git
+  ```
+- Create a new branch
+  ```
+      $ git checkout -b my-new-branch
+  ```
+- Make your changes
+- Commit and push
+  ```
+      $ git add .
+  ```
+  ```
+      $ git commit -m "your-commit-message"
+  ```
+  ```
+      $ git push origin my-new-branch
+  ```
+- Create a new pull request from your forked repository to `main` branch of `Evavic44/Social-media-header.git`
 <hr>
 
 #### 💙 If you like the project, give it a star ⭐ and share with friends!
