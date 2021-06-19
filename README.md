@@ -27,6 +27,8 @@ Contributions of any kind are welcome. Feel free to push a PR.
     <img src="https://user-images.githubusercontent.com/62628408/120693636-28e7f100-c4a1-11eb-9206-47b68c3a2efd.png" width="100%" height="100%">
     <h4>Pratik Sahu</h4>
     <img src="https://user-images.githubusercontent.com/80754608/121764435-762f2700-cb61-11eb-97c5-67c0f0099375.png">
+    <h4>Tonatiuh Morales</h4>
+    <img src="https://user-images.githubusercontent.com/76012794/122629517-385f6080-d083-11eb-9b5e-c6d9e4fc9f1a.png" width="100%" height="100%">
 </div>
 <hr/>
 
