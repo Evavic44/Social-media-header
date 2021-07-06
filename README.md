@@ -8,9 +8,12 @@ This repository is used for creating social media headers using the simple, alre
 
 Contributions of any kind are welcome. Feel free to push a PR.
 
-### ⚙ Socail Headers
+### ⚙ Social Headers
 
 <div align="left">
+    <h4>Eke Victor</h4>
+    <img src="https://user-images.githubusercontent.com/62628408/124593699-d8283700-de56-11eb-8883-7b8e7f56c034.png" width="100%" height="100%"/>
+    <h4>Kehinde Anu</h4>
     <h4>Edem Gold</h4>
     <img src="https://user-images.githubusercontent.com/62628408/120480868-6bc59e00-c3a7-11eb-9100-344b53ef619c.png" width="100%" height="100%"/>
     <h4>Kehinde Anu</h4>
